@@ -1,5 +1,5 @@
 % Ant Colony Optimization to minimize functions  
-% writen by Faramarz Faghihi
+% written by Faramarz Faghihi
 
 clear all
 X = [0:0.01:5];Y = [0:0.01:5];
