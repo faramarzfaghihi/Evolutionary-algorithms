@@ -1,4 +1,4 @@
-% A simple code for Genetic algorithms for optimization of fucntions writen by Faramarz Faghihi 
+% A simple code for Genetic algorithms for optimization of fucntions written by Faramarz Faghihi 
 
 clear all
 
