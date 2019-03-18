@@ -1,5 +1,5 @@
 % A code for Artificial Bees colony optimization algorithms 
-% writen by Faramarz Faghihi
+% written by Faramarz Faghihi
 
 clear all
 
