@@ -1,5 +1,5 @@
 % Application of Particle swarm intelligence in minimization of functions
-% writen by Faramarz Faghihi
+% written by Faramarz Faghihi
 
 clear all
 
