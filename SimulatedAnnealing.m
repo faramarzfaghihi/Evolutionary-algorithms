@@ -1,5 +1,5 @@
 % A code for simlower_boundated annealing algorithm to optimization of function
-% writen by Faramarz Faghihi
+% written by Faramarz Faghihi
 clear all
 lower_bound = 0; % lower bound of design variables
 higher_bound = 6; % higher bound of design variables
